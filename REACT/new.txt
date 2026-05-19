@@ -1,0 +1,5 @@
+# SAP application is the page that is opened when we first create react application
+# NPM => node package manager
+# @babel inside node_modules is a complier which converts ES6+ to ES5 which is compatible with old browsers
+  which understands ES5 only. (ECMAScript)
+# 
